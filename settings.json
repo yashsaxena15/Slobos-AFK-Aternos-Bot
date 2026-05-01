@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yash_saxena15.aternos.me:47176",
+    "ip": "yash_saxena15.aternos.me",
     "port": 47176,
     "version": "1.21.11",
     "try-creative": false
